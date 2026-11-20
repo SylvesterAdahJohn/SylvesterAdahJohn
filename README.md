@@ -3,7 +3,7 @@
 **AI Research Evaluator | Fact Verification & LLM Evaluation**
 📍 Makurdi, Nigeria
 
-I evaluate AI model outputs for accuracy, completeness and instruction following, and I verify claims against primary sources. I have 2+ years of experience in structured annotation and quality assessment across text and image tasks.
+I evaluate AI model outputs for accuracy, completeness and instruction following, and I verify claims against primary sources. I have 4+ years of experience in structured annotation and quality assessment across text and image tasks.
 
 ## What I do
 - **Fact verification:** tracing claims across multiple sources and documenting the evidence clearly
