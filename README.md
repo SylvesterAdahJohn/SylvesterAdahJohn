@@ -12,9 +12,9 @@ I evaluate AI model outputs for accuracy, completeness and instruction following
 
 ## What you'll find here
 Original sample work that shows my approach. It contains no client or confidential material.
-- `fact-verification-casebook` https://github.com/SylvesterAdahJohn/model-comparison-sample
-- `llm-evaluation-templates` 
-- `model-comparison-samples` 
+- `fact-verification-casebook` https://github.com/SylvesterAdahJohn/fact-verification-casebook
+- `llm-evaluation-templates`  https://github.com/SylvesterAdahJohn/-llm-evaluation-templates
+- `model-comparison-samples`  https://github.com/SylvesterAdahJohn/model-comparison-sample
 
 ## Background
 B.Sc. (Ed) Mathematics / Computer Science, Joseph Sarwuan Tarka University
