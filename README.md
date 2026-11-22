@@ -38,9 +38,9 @@ What an agent says it did and what happened on the screen are not always the sam
 
 ## More of my work
 
-- fact-verification-casebook
-- llm-evaluation-templates
-- model-comparison-samples
+- fact-verification-casebook https://github.com/SylvesterAdahJohn/fact-verification-casebook
+- llm-evaluation-templates https://github.com/SylvesterAdahJohn/-llm-evaluation-templates
+- model-comparison-samples https://github.com/SylvesterAdahJohn/model-comparison-sample
 
 ## Get in touch
 
