@@ -1,6 +1,6 @@
 # Adah Sylvester John
 
-**AI Response Evaluator | Fact-Checker | Business Analyst**
+**AI Response Evaluator | Fact-Checker | Business Analyst | Desktop Agent Evaluator **
 Based in Makurdi, Nigeria
 
 ## Hi, I'm Adah
