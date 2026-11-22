@@ -19,15 +19,15 @@ Nothing here comes from a client or a platform. The sources are public, and wher
 
 **A team needs to know what keeps going wrong.**
 Reviewing one answer is easy. Fixing a problem means seeing the pattern behind fifty of them, and then finding the unclear rule that caused it.
-[What keeps going wrong](business-analyst/what-keeps-going-wrong.md)
+[What keeps going wrong](https://github.com/SylvesterAdahJohn/-business-analyst-what-keeps-going-wrong.md)
 
 **A model sounds completely sure.**
 Confidence is not evidence. A wrong answer usually arrives in the same calm tone as a right one, so I check each claim at its source.
-[When a model sounds sure](ai-data-evaluator/when-a-model-sounds-sure.md)
+[When a model sounds sure](https://github.com/SylvesterAdahJohn/-ai-data-evaluator-when-a-model-sounds-sure.md)
 
 **An agent says it's done.**
 What an agent says it did and what happened on the screen are not always the same thing. I check the screen.
-[Done isn't always done](desktop-agent-evaluator/done-is-not-done.md)
+[Done isn't always done](https://github.com/SylvesterAdahJohn/desktop-agent-evaluator-done-is-not-done.md)
 
 ## What I hold myself to
 
